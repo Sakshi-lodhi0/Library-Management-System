@@ -36,7 +36,7 @@ Create and activate virtual environment using <br>
 ```ruby 
    cd LMS
 ```
-
+#lib
 
 ```ruby 
    python manage.py makemigrations
